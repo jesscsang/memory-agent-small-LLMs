@@ -1,0 +1,14 @@
+{
+    "graphs": {
+        "agent": "./graph.py:graph"
+    },
+    "env": ".env",
+    "python_version": "3.11",
+    "dependencies": ["."],
+    "store": {
+        "index": {
+            "dims": 768,
+            "embed": "ollama:nomic-embed-text"
+        }
+    }
+}

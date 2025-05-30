@@ -1,0 +1,13 @@
+jupyter==1.1.1 # To run in jupyter notebook
+python-dotenv==1.0.1
+langchain-ollama==0.3.0
+langchain-experimental==0.3.4
+langchain-chroma==0.2.2
+langchain-community==0.3.19
+langchain-text-splitters==0.3.7
+langgraph==0.2.76
+langgraph-api==0.0.38
+langgraph-prebuilt==0.1.7
+pydantic==2.10.6
+torch==2.6.0
+transformers==4.50.3
